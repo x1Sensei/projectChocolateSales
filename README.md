@@ -1,4 +1,4 @@
-# 🍫 Sistema de Predicción de Ventas - SoftMedia
+# 🍫 Sistema de Predicción de Ventas - Chocolates
 
 Este proyecto es un sistema completo Full Stack para predecir ventas de chocolates utilizando Machine Learning (Regresión Lineal).
 
